@@ -1,0 +1,6 @@
+flask==2.0.1
+pyjwt==2.0.0
+datetime
+uuid
+Flask-SQLAlchemy
+flask-cors
